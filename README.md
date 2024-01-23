@@ -6,4 +6,4 @@ There are 147 color names in CSS, so I included all these colors in my project a
 
 ## Preview
 
-[Gist | Code] (https://gist.github.com/karenlbarcelos/75f2cd602294604541c41e49c607f106)
+You can see the project's code here: [Gist | Code](https://gist.github.com/karenlbarcelos/75f2cd602294604541c41e49c607f106)
