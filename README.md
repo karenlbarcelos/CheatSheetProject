@@ -7,3 +7,13 @@ There are 147 color names in CSS, so I included all these colors in my project a
 ## Preview
 
 You can see the project's code here: [Gist | Code](https://gist.github.com/karenlbarcelos/75f2cd602294604541c41e49c607f106)
+
+Layout: 
+
+![Page1](image.png)
+![Page2](image-1.png)
+![Page3](image-2.png)
+![Page4](image-3.png)
+![Page5](image-4.png)
+
+And so on... til the last color in CSS.
